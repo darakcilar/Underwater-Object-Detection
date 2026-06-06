@@ -24,3 +24,4 @@ Su altı ortamı; ışık kırılması, bulanıklık ve canlıların doğal kamu
 Confusion Matrix ve Karşılaştırmalı Grafik sonuçları `/results` klasöründe mevcuttur.
 
 ---# Underwater-Object-Detection
+Bu akademik çalışma Furkan Darakçılar ve Mehmet Yağlı tarafından ortaklaşa geliştirilmiştir.
